@@ -5,3 +5,4 @@ function greet(x, favColor) {
 }
 
 //greet("john", "blue")
+
